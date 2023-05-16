@@ -15,7 +15,7 @@
 # Usage
 
 ```
-pod 'MRDLNA', :git => 'https://github.com/Meonardo/MRDLNA.git'
+pod 'MRDLNA', :git => 'https://github.com/liugang1985/MRDLNA.git'
 ```
 
 
